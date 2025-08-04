@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tevin.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me LinkedIn.
 
